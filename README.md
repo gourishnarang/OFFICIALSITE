@@ -1,4 +1,4 @@
 # PortFolio_Website
-Complete Portfolio Website with Bootstrap - HTML/CSS In this project, we are going to learn and build how to create a complete portfolio website with bootstrap using HTML and CSS. We will understand everything from scratch. 
+Made this website to showcase my work in Graphic Design. Used some templates for functions like carousel . Code manipulation has helped me a lot to learn how to design,execute,build and deploy the website using tools like Figma , HTML, CSS, JS,BootStrap & Netlify .  
 
-## To execute this project just open index.html file in the browser.
+Please View this website on a laptop or pc for a better experience
